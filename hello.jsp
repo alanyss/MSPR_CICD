@@ -1,4 +1,6 @@
-<html>
+<!DOCTYPE>
+<html lang="fr"> 
+
 <head>
 <title>Sample Application JSP Page</title>
 </head>
