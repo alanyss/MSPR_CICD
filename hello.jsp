@@ -6,6 +6,9 @@
 </head>
 <body bgcolor=white>
 
+<tableaufrontière="0">
+
+<th>
 <table border="0">
 <tr>
 <td align=center>
